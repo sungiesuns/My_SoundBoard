@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/background"
+    android:background="@drawable/image_fairysounds_jellyfish"
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.Guideline
@@ -101,7 +101,7 @@
         android:id="@+id/btn_magical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/button"
+        android:backgroundTint="@drawable/image_fairysounds_stars"
         android:fontFamily="@font/alex_brush"
         android:text="Magical Button"
         android:textColor="@color/buttontext"
