@@ -1,14 +1,13 @@
 package com.example.my_project;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.ButtonBarLayout;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
+public class SoundBoardFairySounds extends AppCompatActivity {
 
 
     private Button btnMagical, btnWaterSpell, btnBellBless, btnGlitter, btnTeleportaiton, btnHorrorBell, btnPotion, btnVideoGame, btnBellOfPromise, btnSpinning, btnLongSpell, btnBubbles;
